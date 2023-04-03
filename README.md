@@ -10,6 +10,7 @@
 <p align="center">
 <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Base_Model">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Base_Model">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Base_Model">
 </p>
 
 - Project Name: 'Name_Git';
