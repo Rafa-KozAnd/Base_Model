@@ -1,5 +1,3 @@
-# Base Model
-
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=Under_Development&color=green&style=flat"/>
@@ -14,6 +12,9 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Base_Model">
   <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Base_Model">
 </p>
+
+
+# Base Model
 
 - Project Name: 'Name_Git';
 - Languages: ('Python', 'C#', 'JavaScript', ...);
